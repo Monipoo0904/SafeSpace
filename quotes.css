@@ -99,3 +99,29 @@ transform: rotateY(-180deg);
 .rotateB{
 transform: rotate(0deg);
 }
+
+
+
+.bottomnav {
+  font-family: Helvetica, sans-serif;
+  background-color: #133769;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%
+  ;
+}
+.bottomnav a {
+  float: left;
+  display:flex;
+  color: #FCF4E2;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.bottomnav a:hover {
+  background-color: #C9374C;
+  color: #FCF4E2
+}

@@ -7,7 +7,9 @@
   overflow: auto;
 
 }
-body {background-image: url('retro.png')}
+
+
+body {background-image: url('galaxy.jpg')}
 
 .topnav a{
 font-family: 'Balsamiq Sans', cursive;
@@ -69,10 +71,8 @@ font-weight: 600;
 font-size: 38px;
 line-height: 45px;
 text-align: left;
+color:white; 
 margin: 20px 60px 0px 60px;
-
-
-color: #424347;
 }
 h4 {
 font-family: 'Balsamiq Sans', cursive;
@@ -83,7 +83,7 @@ line-height: 23px;
 text-align: center;
 padding: 0px 60px 0px 60px;
 
-color: #424347;
+color: white;
 }
 
 .bottomnav {

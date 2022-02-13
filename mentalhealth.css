@@ -1,38 +1,5 @@
 body {background-image: url('galaxy.jpg')}
 
-h1{ 
-  color:white;
-  font-size: 30px;
-font-family:  Helvetica, sans-serif;
-font-display: bold;
-text-align:  center; 
-} 
-
-a{
-  color: white;
-}
-
-*{
-  box-sizing: border-box;
-}
-
-.row{
-    
-    text-align: center;
-}
-.column{
-    display: inline-block;
-   margin: 5px; 
-}
-
-
-
-@media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
-  }
-}
-
 p{
   color: white;
 }
