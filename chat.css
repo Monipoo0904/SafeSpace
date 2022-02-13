@@ -7,7 +7,7 @@
   overflow: auto;
 
 }
-body {background-color: grey}
+body {background-image: url('retro.png')}
 
 .topnav a{
 font-family: 'Balsamiq Sans', cursive;
