@@ -1,7 +1,9 @@
 .planets{
   justify-content: center;
 }
-
+a{
+  color: white;
+}
 
 
 .bottomnav {
