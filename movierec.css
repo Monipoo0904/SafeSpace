@@ -1,0 +1,28 @@
+h1{ font-size: 30px;
+
+font-family:  Helvetica, sans-serif;
+font-display: bold;
+text-align:  center; 
+} 
+
+
+*{
+  box-sizing: border-box;
+}
+
+.colunm{
+
+  flex: 33.33%;
+  padding: 5px;
+
+}
+
+.row{
+  display: flex;
+}
+
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}

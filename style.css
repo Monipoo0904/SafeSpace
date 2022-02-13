@@ -1,0 +1,28 @@
+.planets{
+  justify-content: center;
+}
+
+
+
+.bottomnav {
+  font-family: 'Balsamiq Sans', cursive;
+  background-color: white;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.bottomnav a {
+  float: left;
+  display:flex;
+  color: black;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.bottomnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
