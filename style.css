@@ -1,18 +1,30 @@
-.planets{
-  justify-content: center;
+.row{
+    border: 1px solid grey;
+    text-align: center;
 }
+.column{
+    display: inline-block;
+   margin: 5px; 
+}
+
+
 a{
   color: white;
 }
 
+ h2{
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
 
 .bottomnav {
-  font-family: 'Balsamiq Sans', cursive;
+  font-family: Helvetica, sans-serif;
   background-color: white;
   overflow: hidden;
   position: fixed;
   bottom: 0;
-  width: 100%;
+  width: 100%
+  ;
 }
 .bottomnav a {
   float: left;
